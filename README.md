@@ -1,4 +1,4 @@
 Course.Workbook
 ===============
 
-Workbook for the 4-days NServiceBus course
+Workbook for the 4-day NServiceBus course
